@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Archit:archit@cluster0.ketcc.mongodb.net/bookgenics?retryWrites=true&w=majority",
+  "jwtPrivateKey": "bookgenics_jwtPrivateKey"
+}
